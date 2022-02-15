@@ -1,0 +1,26 @@
+[
+  {
+    "name":"java.lang.Boolean"
+  },
+  {
+    "name":"java.lang.Double"
+  },
+  {
+    "name":"java.lang.Float"
+  },
+  {
+    "name":"java.lang.Integer"
+  },
+  {
+    "name":"java.lang.Long"
+  },
+  {
+    "name":"java.lang.String"
+  },
+  {
+    "name":"java.util.Date"
+  },
+  {
+    "name":"java.util.HashMap"
+  }
+]

@@ -1,0 +1,2 @@
+com.example.springboot.Application=org.springframework.stereotype.Component,org.springframework.boot.SpringBootConfiguration
+com.example.springboot.HelloController=org.springframework.stereotype.Component
